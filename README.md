@@ -1,8 +1,8 @@
 
 # OItrainer — 信息学教练模拟器
 
-![AFOED](https://img.shields.io/badge/⚠️-作者被NOIP2025创飞了，从此不再频繁更新维护。-red?style=for-the-badge)
-
+### 目前该分支由Gitcbz维护
+原代码：[seve42](https://github.com/seve42/OItrainer)
 
 这是一个基于浏览器的文字/策略模拟游戏，模拟信息学教练训练选手从赛季训练到正式比赛的成长与抉择。  
 项目由 **HTML / JavaScript / CSS** 构建，无需后端即可运行。
@@ -64,10 +64,7 @@
 
 ## ✉️ 致谢与联系方式
 
-- 作者：**seve42**  
-- Luogu：`seve_`  
-- 邮箱：`dreamer-seve@outlook.com` 或 `dreamersseve@gmail.com`
+- 该分支维护作者：**gitcbz**  ; 原作者：**seve42**
+- Luogu：`gitcbz`  
+- 邮箱：`gitcbz@outlook.com` 或 `gitbarry2@gmail.com`
 
----
-
-# [设计理念](ZEN.md)
